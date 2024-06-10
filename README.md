@@ -15,9 +15,8 @@ These notebooks demonstrate building and evaluating models to classify breast ca
 ### Model Training and Evaluation:
 #### Model 1 (aymanbukar_model_v1.ipynb):
 - Train a logistic regression model.
-- Evaluate with accuracy, confusion matrix, and classification report.
+- Evaluate 
 
 #### Model 2 (aymanbukar_model_v2.ipynb):
-- Train a gradient boosting model.
-- Evaluate with accuracy, confusion matrix, and classification report.
-- Display accuracy in percentage.
+- Train a gradient-boosting model.
+- Evaluate
